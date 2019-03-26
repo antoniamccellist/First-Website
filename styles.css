@@ -1,0 +1,33 @@
+body {
+    background-image: url("Feather.jpg");
+  margin: 0;
+  padding: 10px;
+  padding-top: 40px;
+}
+
+.card {
+  background:rgba(147, 193, 204, 0.66)
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1,
+h2,
+h3,
+p,
+a {
+  text-align: center;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+
+p,
+a {
+    font-family: 'Dancing Script', cursive;
